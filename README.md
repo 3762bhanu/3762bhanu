@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu Prakash
 - 👀 I’m interested in Development & Coding
-- 🌱 I’m currently in Third year of B. Tech degree
+- 🌱 I’m currently in Final year of B. Tech degree
 - 📫 You can always reach me at my mail id
 
 <!---
